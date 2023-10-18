@@ -5,5 +5,3 @@
 
     $plantilla = new ControladorPLantilla();
     $plantilla -> ctrTraerPlantilla();
-
-    ?>

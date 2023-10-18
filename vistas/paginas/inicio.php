@@ -15,7 +15,7 @@
                      <img src="assets/img/banner/banner-shape3.png" alt="banner__shape">
                   </div>
                   <h5 class="wow fadeInUp" data-wow-duration="2s">The Wedding of</h5>
-                  <h1 class="wow fadeInDown" data-wow-duration="4s">Marcos & Shakira</h1>
+                  <h1 class="wow fadeInDown" data-wow-duration="4s">Ciro & Jessica</h1>
                   <h3 class="wow fadeInUp" data-wow-duration="2s">You are invited</h3>
                </div>
             </div>
@@ -23,9 +23,6 @@
       </div>
    </div>
 </section>
-<!--=========== Banner Section End ========= -->
-
-<!--=========== About Section Here ========= -->
 <section class="about__section pt-120 pb-120">
    <div class="shape__right">
       <img src="assets/img/about/shape/right.png" alt="shape-image">
@@ -102,7 +99,7 @@
                      The wedding day of
                   </h3>
                   <h2 class="celebrate__tittle">
-                     Shakira & Marcos
+                  Ciro & Jessica
                   </h2>
                   <h3 class="sub__tittle">
                      Which is celebration on
@@ -241,7 +238,7 @@
                </div>
                <div class="testi__content">
                   <h3>
-                     Danial Dennis
+                     Ciro Ivan Garcia Rosas
                   </h3>
                   <p>
                      It is a long established fact that a reader will be distracted by the readable content of a page
@@ -260,7 +257,7 @@
                </div>
                <div class="testi__content">
                   <h3>
-                     Shakira Judith
+                     Jessica Romero Rodriguez
                   </h3>
                   <p>
                      It is a long established fact that a reader will be distracted by the readable content of a page

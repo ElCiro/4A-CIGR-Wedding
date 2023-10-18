@@ -20,9 +20,7 @@
         </div>
     </div>
 </section>
-
 <div class="d-flex justify-content-center text-center">
-
     <form class="p-5 bg-light" method="post">
         <div class="form-group">
             <label for="email">Email address:</label>
